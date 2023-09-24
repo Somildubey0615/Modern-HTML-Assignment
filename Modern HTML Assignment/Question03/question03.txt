@@ -1,0 +1,29 @@
+Accessibility in the context of web development :
+
+Accessibility in web development is trying to design and develop websites which are easy to understandable by everyone like people with disabilities should also be able to understand your website easily . there are multiple tools and extensions which can help us to make our website and web application accessible . This includes  understandable and usable for all users, including those with visual disability . Accessibility involves following web standards, providing alternative text for images, creating keyboard-friendly interfaces, and implementing other design and coding techniques to make digital content inclusive and usable for everyone.
+
+So the main goal of making a accessible websites or application is to create a website which is easy to use and understandable by everyone including people with visual disability.
+
+By using semantic tags in structured way can make our website accessible, semantic tags like <header > <main> <footer> <aside> <section> and many more tags can make our website more accessible with navigation images videos , websites can be more understandable. Make sure your website uses keyboard not only mouse to getting input from user.
+
+There are some  device that play a major role in providing accessbility :
+
+1.Screen reader - its a software that read out  content of a web page to people who 
+are visually disable. It can also read and communicate information about graphics, multimedia, and 
+other elements on the page. 
+
+2.Voice recognise accessibility voice recognition software enables user to navigate web pages and input text 
+using voice command. This technology is particularly useful for people who are handicapped or 
+those who have difficulty using a keyboard or mouse.
+ 
+3.Keyboard alternatives -  Keyboard alternatives provides a facility to user to use websites without touching mouse and keyboard. With head-tracking devices, and eye-tracking devices allow people with physical disability to navigate and interact with web pages
+without the uses of a traditional keyboard or mouse.
+
+Why accessbility essential to creat accessble websites and what are the benefits of accessbility ?
+
+So lets talk about why its essential to creat every website accessible. There are various reasons to make your website accessible there are some reasons :
+
+To improve usability - accessbility automated testing software tools can improve the usability of you web application for everyone not just user with disability, website should be usable for every type of user.
+ accessbility standards help us to ensure that our website meets accessbility standards in shorts the tools  which we use they make our web accessible.
+ We can also find accessbility issue so we can find and fix it before user with disability faces them.
+ A developer should always be aware about web application accessbility because it can bring more traffic on web and good ranking of his website. 

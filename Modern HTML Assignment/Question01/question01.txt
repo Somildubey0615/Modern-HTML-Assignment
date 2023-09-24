@@ -1,0 +1,28 @@
+Features of HTML5 : 
+
+HTML5 is the latest version of the HTML. HTML5 introduced some new Feature,some of the Feature are :
+
+1.Audio and Video support : HTML5 allows to embed Video and Audio directly with the help of <video> and <audio> tags. but in the previous versions of HTML is could be embeded by plugins pr 3rd party application, which was not so easy but now in HTML5 its easy to embed with audio and video tags.
+
+2.New Doctype declearation : HTML5 introduced a simplified and short <!DOCKTYPE html> declearation of html version.
+
+3.SVG support :SVG stands for (Scalable Vector Graphics) in past html versions we commonly use .png and .jpg images but with them there is Scalablity issue so HTML5 introduced SVG graphical formate in SVG we can scale height and width SVG's are Mathemetical figure so we can easily strech and shrink image without loosing quality because it uses Mathemetical figures.
+
+4.Semantic Tags/Elements : HTML5 introduced some Structural or Semantic tags to give better Structure to the webpage. some Semantic tags are:
+"<header>",     "<nav>",     "footer"  
+  "<section>",     "<article>" 
+
+5.Geolocation API : Geolocation API gives the feature to access the user's Geolocation throw the browser by enabling browser request.
+
+6.Improvement in form : HTML5 introduced new input types such as 
+"email",   "url",  "number",   "date",     "color"   
+ and some input attributes as well as like -
+"placeholder",     "required"     "pattern"    "autofocus"
+ 
+7.Offline Application Cash: HTML5 got new AppCash feature, it allows to web application to be accessed offline by cashing resources.
+
+8.Canvas : The <canvas> element used for creating a drawing surface on a web page. it allows to rendering of scriptable dynamic Graphics.it used for creating games ,animations etc.
+
+9.Drag and Drop : HTML5 supports Drag and Drop functionallity, it allow web developers to create interective web applications with the ability to drag elementon a web page and drop into target area. Drag and Drop is very useful featureof HTML5.
+it provides a pixel based drawing area where developers can use javascipt to draw shaps and other graphical elements.
+

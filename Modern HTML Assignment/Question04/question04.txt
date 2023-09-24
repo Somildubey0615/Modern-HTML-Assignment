@@ -1,0 +1,8 @@
+3 ways to improve the accessbility of HTML :
+
+1.Responsive design page layouts - always try to create Responsive designs that adapt the various Screen sizes and devices. this thing ensures that user with diffrent accessbility and diffrent Screen size can access your content comfortably on dekstop,tablets and diffrent smartphones. And for creating a page layout always use nested <div> elememt. for better page layout use <header> <nav> <article> <section> <footer> etc.
+
+2.Text Content - Having well structured content that includes headings, paragraphs and lists is one of the most importent accessbility feature for users who uses screen readers.well structured text content increase the accessbility.
+
+3.accessible forms - Creat forms with clear labels and error messages so if any user insert wrong input by mistake he/she find out that error and can easily resolve it.also can use placeholders for better experience. 
+
